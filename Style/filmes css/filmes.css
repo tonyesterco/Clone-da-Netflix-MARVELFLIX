@@ -48,7 +48,7 @@ header nav a:hover {
 /*filme principal*/
 .filme-principal {
     font-size: 14px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/fundo.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/spider-fundo.jpg');
 
     height: 530px;
     background-size: cover;

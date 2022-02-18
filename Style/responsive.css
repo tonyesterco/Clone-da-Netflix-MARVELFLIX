@@ -24,3 +24,9 @@
         width: 60%;
     }
 }
+
+@media screen and (max-width:450px) {
+    .botao {
+        margin: 5px;
+    }
+}
